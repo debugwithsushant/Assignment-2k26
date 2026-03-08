@@ -79,7 +79,7 @@ Assignment-2k26
 
 ## 👨‍💻 Author
 
-**Sushant**
+**Sushant Pawar**
 
 GitHub:
 https://github.com/debugwithsushant
