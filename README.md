@@ -84,6 +84,9 @@ Assignment-2k26
 GitHub:
 https://github.com/debugwithsushant
 
+Linkdin:
+https://in.linkedin.com/in/sushant-pawar1232
+
 ---
 
 ⭐ If this repository helps you in your studies, feel free to **star the repo**.
