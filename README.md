@@ -1,6 +1,6 @@
 # 📚 Assignment-2k26
 
-A collection of **3rd Year B.Sc. (ECS) assignments** including question papers and solved solutions.
+A collection of **3rd Year B.Sc. (ECS) assignments** including assignment questions and solved solutions.
 
 This repository is maintained for **academic reference, practice, and revision**.
 All assignments are organized **subject-wise** for easy access.
